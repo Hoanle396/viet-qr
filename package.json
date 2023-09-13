@@ -1,0 +1,20 @@
+{
+  "name": "@hoanle396/viet-qr",
+  "version": "1.0.2",                     
+  "type": "module",
+  "source": "src/index.js",            
+  "main": "dist/index.js",
+  "module": "dist/index.module.js",
+  "unpkg": "dist/index.umd.js",
+  "scripts": {
+    "build": "microbundle",           
+    "dev": "microbundle watch"        
+  },
+  "devDependencies": {
+    "microbundle": "^0.15.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hoanle396/viet-qr.git"
+  }
+}
