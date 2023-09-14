@@ -1,9 +1,9 @@
 {
   "name": "@hoanle396/viet-qr",
-  "version": "1.0.2",                     
+  "version": "1.0.3",                     
   "type": "module",
   "source": "src/index.js",            
-  "main": "dist/index.js",
+  "main": "dist/index.cjs",
   "module": "dist/index.module.js",
   "unpkg": "dist/index.umd.js",
   "scripts": {
